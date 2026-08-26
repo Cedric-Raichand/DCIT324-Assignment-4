@@ -1,6 +1,6 @@
 # 📱 Pokedex App
 
-A React Native Pokedex application built with Expo for **DCIT 324: Mobile Application Development** at the University of Ghana.
+A React Native Pokedex application built with Expo for **DCIT 324: Mobile Application Development** 
 
 The app uses the **PokeAPI** to fetch live Pokémon data and demonstrates reusable components, props, state management, API integration, and navigation.
 
