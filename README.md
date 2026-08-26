@@ -1,10 +1,10 @@
-# 📱 Pokedex App
+#  Pokedex App
 
 A React Native Pokedex application built with Expo for **DCIT 324: Mobile Application Development** 
 
 The app uses the **PokeAPI** to fetch live Pokémon data and demonstrates reusable components, props, state management, API integration, and navigation.
 
-## ✨ Features
+##  Features
 
 - Live Pokémon data from PokeAPI
 - Reusable Pokémon cards
@@ -17,8 +17,7 @@ The app uses the **PokeAPI** to fetch live Pokémon data and demonstrates reusab
 - Drawer navigation
 - Settings, Help & Support, and Logout screens
 
-## 🛠️ Technologies
-
+##  Technologies
 - React Native
 - Expo
 - JavaScript
@@ -28,7 +27,7 @@ The app uses the **PokeAPI** to fetch live Pokémon data and demonstrates reusab
 - `useEffect`
 - `fetch()`
 
-## 🚀 Run the Project
+##  Run the Project
 
 ```bash
 npm install
